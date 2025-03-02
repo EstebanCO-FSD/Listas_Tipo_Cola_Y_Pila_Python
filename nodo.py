@@ -1,4 +1,4 @@
-# Nodos para las listas tipo pila y cola
+# Nodos para las listas tipo cola y pila
 
 class Nodo:
 
